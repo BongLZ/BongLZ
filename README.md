@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Finding someone can share （or teach me）programming. Or we can learn programming together..
 
 <!---
 BongLZ/BongLZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
